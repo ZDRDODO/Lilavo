@@ -1,0 +1,13 @@
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb
+C:\Users\Stasi\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.genruntimeconfig.cache

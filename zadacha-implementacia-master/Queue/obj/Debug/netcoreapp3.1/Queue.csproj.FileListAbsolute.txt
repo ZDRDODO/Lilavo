@@ -1,0 +1,12 @@
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Stasi\source\repos\ConsoleApp11\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
